@@ -1,45 +1,52 @@
 <div align="center">
 
-# 你好，我是 Olaf 👋
+# Olaf · 邱梓标 👋
 
-**产品经理 · 自己下场，把 AI × 硬件做成能跑起来的产品**
+**AI 产品经理 · 想得透 · 做得出**
 
-*Product manager who builds end-to-end — from PRD to a working AI device.*
+懂用户、懂产品，又能亲手把 AI 跑到**硬件和物理世界**，并真正商业化落地。
+
+*An AI PM who ships — turning ideas into real AI hardware & agent products.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Olaf-biu&label=Profile%20Views&color=2ea44f&style=flat)
-
-<!-- 📫 TODO（不显示）：想公开时把下面两行的注释去掉并填好
-[![Portfolio](https://img.shields.io/badge/作品集-Portfolio-2ea44f?style=flat-square)](你的作品集网址)
-[![Email](https://img.shields.io/badge/Email-邮箱-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:你的邮箱)
--->
 
 </div>
 
 ---
 
-### 🔭 我在做什么
+### 🧭 我的定位
 
-- 做产品不止停在文档。我更想验证"自己能不能真的把系统调通"：
-  **产品定义 → 硬件 → 音频 → AI（ASR / LLM / TTS）→ 可演示的样机**，一条链路走完。
-- 🚀 开源项目 [**esp32-p4-ai-meeting**](https://github.com/Olaf-biu/esp32-p4-ai-meeting) ——
-  一台跑在 **ESP32-P4** 上的 AI 会议秘书：语音闲聊 + 会议实时转写/纪要 + 声纹区分发言人（含设备端固件与自托管后端）。
-- 🌱 持续关注：**边缘 AI、语音交互、AI Agent、自托管**。
+不是只写 PRD 的产品经理 —— 我能从 0 定义产品，也能亲手**调模型、写代码（Vibe Coding）、把「硬件 + AI」整套系统跑通**，并推向真实商业落地。
+
+> 当 AI Agent 开始落到硬件、落到物理世界，懂用户、懂产品、又能亲手做软硬件的人，正变稀缺。
+> 我想做这样的人。
+
+### 🚀 部分交付（真实上线）
+
+- **AI 终端产品线 @小铁** · 产品线负责人 —— to B 的 IP 智能化（硬件 + 平台 + 自研模型）；累计 **2w+ 台出货**，落地中国国博「鸮小乐」标杆，并向辽宁省博、浙江省博等多馆复制上线。
+- **AI 景区打卡 / 拍报机** · 0→1 产品负责人 —— 投放全国景区 **300+ 台**运营，出片模型由我亲手调优（ComfyUI）。
+- **脑洞胶囊** · 独立全栈 —— AI 写真产品（小程序 + Web + 运营后台 + 后端），真支付、真计费、真运营，做到**生产级完整度**。
+- **[esp32-p4-ai-meeting](https://github.com/Olaf-biu/esp32-p4-ai-meeting)** · 端到端独立 · 开源 —— 跑在 ESP32-P4 上的 AI 会议秘书：实时转写 + 声纹区分发言人 + 自动结构化纪要，可私有化部署。
+- **产品视频生成 Agent** · 进行中 —— 自研 Agent 框架，把"产品介绍视频"的生产自动化。
 
 ### 🛠️ 常用工具与技术
 
-![Product](https://img.shields.io/badge/Product%20Management-0A66C2?style=for-the-badge&logo=trello&logoColor=white)
+![Product](https://img.shields.io/badge/产品定义%20%26%20商业化-0A66C2?style=for-the-badge&logo=trello&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF%20%2F%20ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI%20%2F%20AIGC%20出片-1f6feb?style=for-the-badge)
 
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding%20全栈-2ea44f?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WeChat MiniApp](https://img.shields.io/badge/微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
-> 偏产品全链路 + 系统集成；底层固件不是我的主场，但能把它调通到样机可演示。
+> 偏「产品判断 + 端到端落地」：能定义、能调模型、能撸码把系统跑通到真实商用；底层固件不是主场，但能调通到产品可交付。
 
-<!-- 自用备注（不显示）：核心卖点是端到端产品判断力 + 真能把系统调通，不过度包装成资深固件工程师。 -->
+<!-- 📫 TODO（不显示，想公开再去掉注释并填好）：
+[![Portfolio](https://img.shields.io/badge/作品集-Portfolio-2ea44f?style=flat-square)](https://portfolio.olaf.net.cn/)
+[![Email](https://img.shields.io/badge/Email-邮箱-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:你的邮箱)
+-->
+
+<!-- 自用备注（不显示）：定位=会落地的 AI 硬件/Agent 产品经理；护城河=交叉点+真实落地+前瞻；不包装成资深固件工程师。 -->
