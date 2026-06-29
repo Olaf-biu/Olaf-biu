@@ -22,7 +22,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Olaf-biu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2ea44f&icon_color=2ea44f" alt="Olaf 的 GitHub 统计" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaf-biu&layout=compact&hide_border=true&title_color=2ea44f&langs_count=8" alt="常用语言" />
 
-<img width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=Olaf-biu&hide_border=true&fire=2ea44f&ring=2ea44f&currStreakLabel=2ea44f" alt="连续贡献" />
+<img width="490" src="https://streak-stats.demolab.com/?user=Olaf-biu&hide_border=true&fire=2ea44f&ring=2ea44f&currStreakLabel=2ea44f" alt="连续贡献" />
 
 </div>
 
